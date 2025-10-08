@@ -1,5 +1,6 @@
 # 🎬 CyberLearn Movies
-![Uploading image.png…]()
+![Homepage](https://user-images.githubusercontent.com/123456/screenshot.png)
+
 
 Hệ thống đặt vé xem phim trực tuyến hiện đại được xây dựng với Next.js 15, TypeScript và Tailwind CSS.
 
