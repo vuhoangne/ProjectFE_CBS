@@ -222,7 +222,7 @@ MIT License - xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
 - **Email**: vuhoangfcj.work@gmail.com
 - **Website**: https://project-fe-cbs.vercel.app/
-
+- **Website admin**: https://project-fe-cbs.vercel.app/admin
 ---
 
 ⭐ **Star this repo** nếu bạn thấy hữu ích!
