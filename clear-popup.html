@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clear Newsletter Popup</title>
+</head>
+<body>
+    <h1>Clear Newsletter Popup Cache</h1>
+    <button onclick="clearCache()">Clear Cache</button>
+    <div id="result"></div>
+
+    <script>
+        function clearCache() {
+            localStorage.removeItem('newsletter-modal-seen');
+            document.getElementById('result').innerHTML = '<p style="color: green;">Cache cleared! Refresh your main page.</p>';
+        }
+        
+        // Auto clear on load
+        clearCache();
+    </script>
+</body>
+</html>

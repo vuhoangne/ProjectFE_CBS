@@ -1,0 +1,21 @@
+{
+  "siteName": "CyberLearn Movies",
+  "siteDescription": "Hệ thống đặt vé xem phim trực tuyến",
+  "contactEmail": "vuhoangfcj.work@gmail.com",
+  "supportPhone": "0937036966",
+  "maxSeatsPerBooking": 8,
+  "bookingTimeLimit": 15,
+  "cancellationDeadline": 2,
+  "emailNotifications": true,
+  "smsNotifications": true,
+  "pushNotifications": true,
+  "requireEmailVerification": true,
+  "enableTwoFactor": false,
+  "sessionTimeout": 30,
+  "enableCreditCard": true,
+  "enableBankTransfer": true,
+  "enableEWallet": true,
+  "maintenanceMode": false,
+  "debugMode": false,
+  "cacheEnabled": true
+}
