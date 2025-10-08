@@ -1,4 +1,5 @@
 # 🎬 CyberLearn Movies
+![Uploading image.png…]()
 
 Hệ thống đặt vé xem phim trực tuyến hiện đại được xây dựng với Next.js 15, TypeScript và Tailwind CSS.
 
@@ -221,8 +222,7 @@ MIT License - xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 ## 📞 Liên hệ
 
 - **Email**: vuhoangfcj.work@gmail.com
-- **Website**: 
-- **GitHub**: 
+- **Website**: https://project-fe-cbs.vercel.app/
 
 ---
 
